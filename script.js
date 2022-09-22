@@ -1,14 +1,13 @@
-// function scrollTo(element){
-//   document.querySelector(element).scrollIntoView({ behavior: 'smooth' })
-// }
+function scrollTo(element){
+  document.querySelector(element).scrollIntoView({ behavior: 'smooth' })
+}
 
-// document.getElementById('sessao-contato').addEventListener('click', function(event){
-//   event.preventDefault()
+const sectionList = document.querySelectorAll('li a')
 
-//   scrollTo('#sessao-bemvindo')
-//   console.log('Teste')
-// })
-
-document.getElementById('sessao-contato').addEventListener('click', function(){
-  console.log('tezt')
-})
+sectionList.forEach((sectionSelected) => [
+  sectionSelected.addEventListener('click', (e) => {
+    e.preventDefault()
+    const element = sectionSelected.getAttribute("href")
+    scrollTo(element)
+  })
+])
