@@ -15,7 +15,7 @@
 * [Licença](#licença)
 
 # 📃 <span id="descrição">Descrição</span>
-Um single page de uma doceria, com fins de estudos em CSS das propriedades de position, display e pseudo elementos.
+Um single page de uma doceria, com fins de estudos em CSS das propriedades de position, display e pseudo elementos e HTML semântico.
 
 # 📌 <span id="requisitos">Requisitos Funcionais</span>
 - [x] Responsividade<br>
