@@ -29,7 +29,11 @@ Um single page de uma doceria, com fins de estudos em CSS das propriedades de po
 - O modelo final para versão desktop e mobile está disponível na pasta `./design`
 
 - <span id="cores">Cores<br></span>
-  * #323236<br>
+  * #373a3c<br>
+  * #006599<br>
+  * #FFF<br>
+  * #f4ef5e<br>
+  * #2790c6<br>
 
 - <span id="fontes">Fontes<br></span>
   * Open Sans, sans-serif
