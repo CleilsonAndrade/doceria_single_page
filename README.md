@@ -41,7 +41,7 @@ Um single page de uma doceria, com fins de estudos em CSS das propriedades de po
 # 🚀 <span id="instalação">Instalação</span>
 ```bash
   # Clone este repositório:
-  $ git clone https://github.com/CleilsonAndrade/doceria_single_page
+  $ git clone https://github.com/CleilsonAndrade/doceria_single_page.git
   $ cd ./doceria_single_page
 ```
 
